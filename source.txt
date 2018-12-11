@@ -1,0 +1,9 @@
+-------------------------------
+Freesound.org (2012). Freesound [online]. Available: http://www.freesound.org 
+Freesound aims to create a huge collaborative database of audio snippets, samples, recordings, bleeps, released under Creative Commons licenses that allow their reuse.
+-------------------------------
+
+
+This folder contains these sounds from freesound:
+
+30192__erh__string-1-loop.wav by ERH               	    ( https://freesound.org/s/30192/ )
